@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Time Check",
+  "description": "Thie extenstion alerts user every 1 hour",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "hour-glass.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "alarms"
+  ]
+}
