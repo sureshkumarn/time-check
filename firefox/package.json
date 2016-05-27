@@ -1,0 +1,16 @@
+{
+  "title": "Time Check",
+  "name": "time-check",
+  "version": "0.0.1",
+  "description": "Time Beeper",
+  "main": "index.js",
+  "author": "Sureshkumar N",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
