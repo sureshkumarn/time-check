@@ -1,0 +1,23 @@
+{
+    "name":{
+        "message":"Time Beeper"
+    },
+    "title":{
+        "message":"Time Beeper"
+    },
+    "description":{
+        "message":"Time Beeper notifies user every 1 hour."
+    },
+    "direction":{"message":"ltr"},
+    "notitle":{"message":"(No Title)"},
+    "optionstitle":{"message":"Time Beeper"},
+    "minutes":{"message":"$1m","placeholders":{"1":{"content":"$1"}}},
+    "hours":{"message":"$1h","placeholders":{"1":{"content":"$1"}}},
+    "days":{"message":"$1d","placeholders":{"1":{"content":"$1"}}},
+    "multicalendartext":{"message":"Multi Time Beeper"},
+    "extensionname":{"message":"Time Beeper"},
+    "status_saved":{"message":"Settings Saved."},
+    "status_saving":{"message":"Saving...."},
+    "multicalendartooltip":{"message":"Please check the box to enable multiple Time Beeper"},
+    "imagetooltip":{"message":"Time Beeper"}
+}
